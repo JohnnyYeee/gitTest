@@ -7,5 +7,6 @@ public class master1 {
         System.out.println("firs3");
         System.out.println("firs  3");
         System.out.println("git4 hot-fix");
+        System.out.println("git5 hot-fix");
     }
 }
