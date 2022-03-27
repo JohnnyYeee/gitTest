@@ -6,5 +6,6 @@ public class master1 {
         System.out.println("first try2");
         System.out.println("firs3");
         System.out.println("firs  3");
+        System.out.println("git4 hot-fix");
     }
 }
